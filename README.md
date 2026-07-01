@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hari
-- 👀 I’m interested in Python, ML, GoLang, Java, Docker, and Kubernetes
+- 👀 I’m interested in Python, ML, GoLang, Java, Docker, Virtualization and Kubernetes
 - 🌱 I’m currently learning ML from scratch
 - 💞️ I’m looking to collaborate on FOSS projects across Python, GoLang & Java
 - 📫 How to reach me: WhatsApp @ 7892142719
